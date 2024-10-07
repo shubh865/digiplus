@@ -1,0 +1,7 @@
+{
+    "sim_number": "123456789012345",
+    "phone_number": "9876543210",
+    "status": "inactive",  // or 'active'
+    "activation_date": null
+  }
+  
